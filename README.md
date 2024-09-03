@@ -2,10 +2,10 @@
 
 Objective of this project is to identify the key drivers that determine the likelihood of credit card default and Predict the likelihood of credit card default for customers of the Bank.This app is deployed using Tkinter,a standard GUI library for Python..Model development is based on categorization methods as Logistic Regression,Decision Tree Classifier, KNN and Naive Bayes algorithms. For Logistic Regression, the models give precisions of 78%, for Naive Bayes 38%,% for Decision Tree and 76% for KNN.This app compares the results by these following algorithms and gives significant accuracy with these methods.This project was from the Hackathon conducted by kaggle.
 
-<img width="1440" alt="credit" src="https://github.com/user-attachments/assets/02c62c46-2e69-47cb-b1a3-e168a19adff0">
+<img width="906" alt="credit" src="https://github.com/user-attachments/assets/2cbe2d55-4dba-41fa-bfb1-bfd89247a530">
 
-About Dataset Dataset Information This dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005.
-
+## About Dataset
+This dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005.
 Content There are 25 variables:
 
 ID: ID of each client LIMIT_BAL: Amount of given credit in NT dollars (includes individual and family/supplementary credit
